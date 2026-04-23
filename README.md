@@ -29,12 +29,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zeeroz&label=Profile%20views&color=0e75b6&style=flat" alt="Vues du profil" />
-</p>
-
 <!---
 Zeeroz/Zeeroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
