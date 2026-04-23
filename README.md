@@ -31,19 +31,6 @@
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeeroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Stats GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeroz&theme=tokyonight&hide_border=true" height="180" alt="Streak GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top langages"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zeeroz&label=Profile%20views&color=0e75b6&style=flat" alt="Vues du profil" />
 </p>
